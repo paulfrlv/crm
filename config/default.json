@@ -1,0 +1,4 @@
+{
+  "jwt": "dev-jwt",
+  "mongoUri": "mongodb+srv://paul:1212@cluster0-ybi5k.gcp.mongodb.net/test?retryWrites=true&w=majority"
+}
